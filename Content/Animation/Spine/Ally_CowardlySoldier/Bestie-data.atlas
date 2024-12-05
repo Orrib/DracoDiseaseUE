@@ -1,0 +1,68 @@
+Bestie.png
+size:2017,1542
+filter:Linear,Linear
+pma:true
+Chest_Bestie
+bounds:1466,2,539,618
+offsets:0,1,539,619
+Head_bestie
+bounds:2,834,310,296
+L Arm
+bounds:2,1132,246,453
+rotate:90
+L Calf
+bounds:742,1068,246,562
+rotate:90
+L Foot
+bounds:1454,1303,337,237
+L Forearm
+bounds:568,1367,173,323
+rotate:90
+L Gambeson Flap
+bounds:711,366,382,753
+rotate:90
+L Hand
+bounds:175,1391,149,215
+rotate:90
+L Thigh
+bounds:1306,1032,269,709
+rotate:90
+R Arm
+bounds:1037,750,280,458
+rotate:90
+R Calf
+bounds:893,1316,224,559
+rotate:90
+R Fingers
+bounds:2,1399,141,171
+rotate:90
+R Forearm
+bounds:457,1102,263,283
+rotate:90
+R Gambeson Flap
+bounds:314,788,278,721
+rotate:90
+R Hands
+bounds:392,1380,174,160
+R Thigh
+bounds:2,500,286,707
+rotate:90
+Soldier_Sword
+bounds:2,23,341,1392
+rotate:90
+Waist
+bounds:1497,622,408,514
+rotate:90
+
+Bestie_2.png
+size:2023,952
+filter:Linear,Linear
+pma:true
+Soldier_shield
+bounds:1124,47,903,897
+offsets:0,0,903,898
+rotate:90
+Swish
+bounds:2,2,948,1120
+offsets:3,21,981,1168
+rotate:90

@@ -1,0 +1,80 @@
+Dark Knight.png
+size:3948,1886
+filter:Linear,Linear
+pma:true
+Back Arm
+bounds:3406,1111,322,469
+offsets:1,1,324,471
+rotate:90
+Back Calf
+bounds:2168,129,343,633
+offsets:1,1,345,635
+Back Fingers
+bounds:2513,2,176,187
+offsets:1,1,178,189
+rotate:90
+Back Foot
+bounds:3406,692,465,417
+offsets:1,1,467,419
+Back Forarm
+bounds:2462,772,264,280
+offsets:1,1,266,282
+rotate:90
+Back Hand
+bounds:3033,1245,238,325
+offsets:1,1,240,327
+Back Thigh
+bounds:1829,16,337,746
+offsets:1,1,339,748
+Cape
+bounds:2,19,1126,1865
+Center Skirt
+bounds:2744,779,257,536
+rotate:90
+Chest
+bounds:2462,1038,569,846
+Foot Cover
+bounds:3624,42,256,396
+offsets:1,2,258,399
+Front Arm
+bounds:2958,12,308,463
+offsets:1,1,310,465
+Front Calf
+bounds:2513,180,443,590
+offsets:1,1,446,592
+Front Fingers
+bounds:2168,19,108,140
+offsets:1,1,110,142
+rotate:90
+Front Foot
+bounds:2958,477,416,300
+offsets:1,1,418,302
+Front Forarm
+bounds:3033,1042,201,371
+offsets:1,1,204,373
+rotate:90
+Front Hand
+bounds:3754,1548,192,336
+offsets:1,1,194,338
+Front Thigh
+bounds:1512,9,315,753
+offsets:1,1,317,755
+Head
+bounds:3033,1572,245,312
+offsets:1,1,247,314
+Hood Back
+bounds:3624,440,250,297
+offsets:1,1,252,299
+rotate:90
+Left Skirt
+bounds:3282,1435,470,449
+offsets:1,1,472,451
+Right Skirt
+bounds:3268,23,354,452
+offsets:1,1,356,454
+Swish
+bounds:1512,764,948,1120
+offsets:3,21,981,1168
+Sword
+bounds:1130,74,380,1810
+offsets:1,1,382,1813

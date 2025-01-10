@@ -1,0 +1,65 @@
+Enemy Villager Zombie.png
+size:3964,2404
+filter:Linear,Linear
+pma:true
+Back Arm
+bounds:3614,584,170,392
+offsets:1,1,172,394
+Back Calf
+bounds:2404,3,194,609
+offsets:1,1,196,612
+rotate:90
+Back FIngers
+bounds:3850,428,76,134
+Back Foot
+bounds:3157,29,287,205
+rotate:90
+Back Forarm
+bounds:3531,978,191,431
+offsets:1,1,193,433
+rotate:90
+Back Thigh
+bounds:3157,1001,372,649
+offsets:2,1,375,652
+Back Thumb
+bounds:3731,152,55,141
+Background
+bounds:2,2,2400,2400
+offsets:1,1,2402,2402
+Chest
+bounds:3157,1652,576,750
+Enemy Basic
+bounds:2404,199,751,2203
+offsets:1,2,753,2207
+Front Arm
+bounds:3404,598,208,378
+offsets:1,1,210,380
+Front Calf
+bounds:3735,1808,221,594
+offsets:1,1,224,596
+Front FIngers
+bounds:3015,42,123,155
+Front Foot
+bounds:3404,309,287,207
+rotate:90
+Front Forearm
+bounds:3786,564,151,412
+offsets:1,1,153,414
+Front Hand
+bounds:3735,1689,117,172
+rotate:90
+Front Thumb
+bounds:3783,394,65,168
+FrontThigh
+bounds:3157,318,245,681
+offsets:1,1,247,683
+Head
+bounds:3364,38,277,255
+offsets:1,1,279,257
+Jaw
+bounds:3613,295,168,287
+Waist
+bounds:3531,1171,402,479
+back Hand
+bounds:3643,131,86,162
+offsets:1,1,88,164

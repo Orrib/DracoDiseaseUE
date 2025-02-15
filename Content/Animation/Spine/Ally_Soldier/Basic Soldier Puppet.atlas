@@ -1,0 +1,71 @@
+Basic Soldier Puppet.png
+size:2029,1946
+filter:Linear,Linear
+pma:true
+Chest
+bounds:1501,432,526,568
+Head
+bounds:903,1732,212,330
+rotate:90
+L Arm
+bounds:1574,1700,244,451
+rotate:90
+L Calf
+bounds:2,1537,246,557
+rotate:90
+L Foot
+bounds:1235,1710,337,234
+L Forearm
+bounds:562,1773,171,339
+rotate:90
+L Gambeson Flap
+bounds:734,615,385,765
+rotate:90
+L Hand
+bounds:170,1797,147,214
+rotate:90
+L Thigh
+bounds:2,1240,267,709
+rotate:90
+R Arm
+bounds:1412,1414,284,458
+rotate:90
+R Calf
+bounds:844,1468,240,566
+rotate:90
+R Fingers
+bounds:2,1802,142,166
+rotate:90
+R Forearm
+bounds:561,1509,262,281
+rotate:90
+R Gambeson Flap
+bounds:2,824,299,730
+rotate:90
+R Hands
+bounds:386,1785,174,159
+R Thigh
+bounds:713,1125,287,706
+rotate:90
+Soldier_Sword
+bounds:2,2,428,1719
+rotate:90
+Waist
+bounds:1421,1002,410,512
+rotate:90
+
+Basic Soldier Puppet_2.png
+size:1124,952
+filter:Linear,Linear
+pma:true
+Swish
+bounds:2,2,948,1120
+offsets:3,21,981,1168
+rotate:90
+
+Basic Soldier Puppet_3.png
+size:1116,1120
+filter:Linear,Linear
+pma:true
+Soldier_shield
+bounds:2,2,1112,1116
